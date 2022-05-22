@@ -1,4 +1,4 @@
-package com.example.springmongo;
+package com.example.mongospringtrap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

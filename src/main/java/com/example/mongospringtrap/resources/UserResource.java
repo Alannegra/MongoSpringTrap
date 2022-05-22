@@ -1,9 +1,9 @@
-package com.example.springmongo.resources;
+package com.example.mongospringtrap.resources;
 
-import com.example.springmongo.controller.UserController;
-import com.example.springmongo.model.Animal;
-import com.example.springmongo.model.User;
-import com.example.springmongo.service.SequenceGeneratorService;
+import com.example.mongospringtrap.controller.UserController;
+import com.example.mongospringtrap.model.Animal;
+import com.example.mongospringtrap.model.User;
+import com.example.mongospringtrap.service.SequenceGeneratorService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.github.fge.jsonpatch.JsonPatch;
 import com.github.fge.jsonpatch.JsonPatchException;

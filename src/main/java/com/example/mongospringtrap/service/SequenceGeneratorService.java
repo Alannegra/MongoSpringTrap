@@ -1,4 +1,4 @@
-package com.example.springmongo.service;
+package com.example.mongospringtrap.service;
 
 import static org.springframework.data.mongodb.core.FindAndModifyOptions.options;
 import static org.springframework.data.mongodb.core.query.Criteria.where;
@@ -6,7 +6,7 @@ import static org.springframework.data.mongodb.core.query.Query.query;
 
 import java.util.Objects;
 
-import com.example.springmongo.model.DatabaseSequence;
+import com.example.mongospringtrap.model.DatabaseSequence;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoOperations;
 import org.springframework.data.mongodb.core.query.Update;

@@ -1,6 +1,6 @@
-package com.example.springmongo.repositories;
+package com.example.mongospringtrap.repositories;
 
-import com.example.springmongo.model.Animal;
+import com.example.mongospringtrap.model.Animal;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

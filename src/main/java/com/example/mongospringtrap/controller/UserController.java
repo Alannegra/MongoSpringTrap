@@ -1,8 +1,8 @@
-package com.example.springmongo.controller;
+package com.example.mongospringtrap.controller;
 
-import com.example.springmongo.model.Animal;
-import com.example.springmongo.model.User;
-import com.example.springmongo.repositories.UserDAO;
+import com.example.mongospringtrap.model.Animal;
+import com.example.mongospringtrap.model.User;
+import com.example.mongospringtrap.repositories.UserDAO;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

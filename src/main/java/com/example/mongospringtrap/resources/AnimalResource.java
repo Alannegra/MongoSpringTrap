@@ -1,7 +1,7 @@
-package com.example.springmongo.resources;
+package com.example.mongospringtrap.resources;
 
-import com.example.springmongo.controller.AnimalController;
-import com.example.springmongo.model.Animal;
+import com.example.mongospringtrap.controller.AnimalController;
+import com.example.mongospringtrap.model.Animal;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.github.fge.jsonpatch.JsonPatch;
 import com.github.fge.jsonpatch.JsonPatchException;
